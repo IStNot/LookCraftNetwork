@@ -4,3 +4,7 @@ Hola esta es la pagina oficial de nuestra netwrok esto cualquier copia o etc ser
 demandao por la pagina  web.
 
 Espero que no hagas nada que no sea bueno y disfrustes de nuestra network
+
+
+         Pagina desarrollada por Sphinix
+© Copyright LookCraft. Todo los derechos resevados
