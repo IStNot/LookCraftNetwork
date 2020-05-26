@@ -6,5 +6,5 @@ demandao por la pagina  web.
 Espero que no hagas nada que no sea bueno y disfrustes de nuestra network
 
 
-         Pagina desarrollada por Sphinix
+  Pagina desarrollada por Sphinix
 © Copyright LookCraft. Todo los derechos resevados
